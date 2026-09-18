@@ -5,7 +5,6 @@
 <h3 align="center">Full Stack Developer </h3>
 
 
-<img align="right" alt="coading" width="400" src="https://bse.eu/summer-school/data-science/coding-bootcamp-python-r">
 
 
 <p align="center">
