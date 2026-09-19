@@ -1,3 +1,9 @@
+<a target="_blank" href="https://img.ge/en/HOwahENvQAhhqTo"><img  src="https://img.ge/i/l8TKG82.jpg" alt="Black Elegant Modern Personal LinkedIn Banner.jpg"/></a>
+
+
+
+
+
 <p align="center">
   <img src=<a [url=https://im.ge/i/QQurhg6][img]https://i.im.ge/QQurhg6/file_00000000a95c8208b450598ed125967c-t900.webp[/img][/url]
 </p>
@@ -70,4 +76,4 @@
 
 
 
-<a href="https://im.ge/i/QQurDVy"><img src="https://i.im.ge/QQurDVy/Capture001.png" alt="Capture001" /></a>
+
