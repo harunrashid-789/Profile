@@ -1,5 +1,4 @@
-<a target="_blank" href="https://img.ge/en/HOwahENvQAhhqTo"><img  src="https://img.ge/i/l8TKG82.jpg" alt="Black Elegant Modern Personal LinkedIn Banner.jpg"/></a>
-
+<a target="_blank" href="https://img.ge/en/BXEmJcWqX85iUgA"><img  src="https://img.ge/i/XiWsm5.png" alt="file_0000000080ec8211add44265fa36ce6c.png"/></a>
 
 <h1 align="center">Hi 👋, I'm Harun Rashid Sarkar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
