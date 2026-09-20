@@ -38,3 +38,24 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harunrashid-789&" alt="harunrashid-789" /></p>
+
+
+
+<p align="center">
+  <img width="59%" height="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harunrashid-789&theme=tokyonight" />
+
+  <img width="40%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harunrashid-789&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="32%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harunrashid-789&theme=tokyonight" />
+
+  <img width="32%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harunrashid-789&theme=tokyonight" />
+
+  <img width="32%" height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harunrashid-789&theme=tokyonight&utcOffset=8" />
+</p>
+
+<p align="center">
+  <img width="98%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=harunrashid-789&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
