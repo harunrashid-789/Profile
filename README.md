@@ -1,79 +1,37 @@
 <a target="_blank" href="https://img.ge/en/HOwahENvQAhhqTo"><img  src="https://img.ge/i/l8TKG82.jpg" alt="Black Elegant Modern Personal LinkedIn Banner.jpg"/></a>
 
 
-
-
-
-<p align="center">
-  <img src=<a [url=https://im.ge/i/QQurhg6][img]https://i.im.ge/QQurhg6/file_00000000a95c8208b450598ed125967c-t900.webp[/img][/url]
-</p>
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Harun Rashid Sarkar</h1>
-<h3 align="center">Full Stack Developer </h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
+
+
+<a target="_blank" href="https://img.ge/en/7P9n3dkMWy3tImo"><img  src="https://img.ge/i/1VXZq12.png" alt="file_00000000a95c8208b450598ed125967c.png"/></a>
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=550&lines=Full-Stack-Developer;Quick+Learner;Problem+Solver;Learning+React;Learning+Node.js" alt="Typing SVG" />
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harunrashid-789&label=Profile%20views&color=0e75b6&style=flat" alt="harunrashid-789" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harunrashid-789" alt="harunrashid-789" /></a> </p>
+
+- 📫 How to reach me **harunrashidsarkar224@gmail.com**
+
+- ⚡ Fun fact **I think i am funny 🤩**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ harun-rashid-225584315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ harun-rashid-225584315" height="30" width="40" /></a>
+<a href="https://fb.com/harunnnnn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harunnnnn7" height="30" width="40" /></a>
+<a href="https://instagram.com/__i___am___harun__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__i___am___harun__" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/4VgsvsmE7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4VgsvsmE7" height="30" width="40" /></a>
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashraful-alom-1&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harunrashid-789&show_icons=true&locale=en&layout=compact" alt="harunrashid-789" /></p>
 
-## 👨💻 About Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harunrashid-789&show_icons=true&locale=en" alt="harunrashid-789" /></p>
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at J.C. Bose University, YMCA (2024–2028)  
-- 🔭 Currently working on **Responsive Web Applications & Projects**  
-- 🌱 Improving skills in **React.js**, **Node.js**  
-- 💬 Ask me about **HTML, CSS, JavaScript, C++, Git/GitHub** 
-- 📫 Reach me at **harunrashidsarkar224@gmail.com**  
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-
-### 🧠 Programming
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-### ⚙️ Backend (Learning)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### 🧰 Tools & Software
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
----
-
-## 🚀 Projects 
-
----
-
-## 📊 GitHub Stats
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fulbabu-islam-96a9ba2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:harunrashidsarkar224@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/harunrashid-789">
-... (1 line left)
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harunrashid-789&" alt="harunrashid-789" /></p>
